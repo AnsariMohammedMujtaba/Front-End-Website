@@ -1,0 +1,168 @@
+.custom-nav{
+    font-size: small;
+    box-shadow: 0px 2px 12px rgba(0,0,0,0.5);
+}
+
+.custom-nav ul.dropdown-menu {
+    font-size: small;
+}
+
+.main-banner{
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background-image: url(image/home.jpg);
+    background-size: cover;
+
+}
+
+.feature-holder{
+    text-align: center;
+    margin-bottom: 25px;
+
+}
+section.feature {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    background-color: whitesmoke;
+}
+
+.feature-holder h3 {
+    font-size: 1.2em;
+}
+
+.feature-holder p {
+    font-size: 14px;
+}
+
+section.online-courses, .classroom-training, .reviews-slider, .page-containt {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.online-courses-text-widget, .classroom-courses-text-widget, .review-text-widget {
+    text-align: center;
+}
+
+.online-courses-text-widget h2, .classroom-courses-text-widget h2, .review-text-widget h2 {
+    font-size: 1.3em;
+}
+
+.online-courses-text-widget p, .classroom-courses-text-widget p, .review-text-widget p{
+    font-size: 14px;
+}
+
+.card.online-course-card .review-text-widget{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.online-course-card .card-title {
+    font-size: 1.2em;
+    line-height: 25px;
+}
+
+.card.online-course-card .card-text {
+    font-size: 14px;
+}
+.img1{
+    height: 150px;
+    width: 400px;
+}
+
+.classroom-training ,.page-containt {
+
+    background-color: whitesmoke;
+}
+.reviews-slider{
+   background-color: #ececec;
+
+}
+
+.sign-up-form-sidebar.card-title {
+    font-size: 1.2em;
+}
+.sign-up-form-sidebar.card-text {
+    font-size: 14px;
+}
+
+.course-list-item {
+    font-size: small;
+    padding-top: 20px;
+    color: black;
+}
+
+#review_slider_containt li .card{
+    text-align: center;
+}
+
+#review_slider_containt li .card img{
+    width: 50px;
+    margin-bottom: 15px;
+}
+
+#review_slider_containt li .card .card-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+#review_slider_containt li .card .star{
+    color: yellow;
+    font-size: 14px;
+}
+
+#review_slider_containt li .card .card-text{
+    font-size: 14px;
+    
+}
+
+footer.mian-footer {
+    background-color: rgb(36, 34, 34);
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 25px;
+}
+
+aside.footer-widget {
+    margin-bottom: 25px;
+}
+
+aside.footer-widget h5 {
+    font-size: 16px;
+}
+
+aside.footer-widget ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+aside.footer-widget Ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: whitesmoke;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+address h2 {
+    font-size: 20px;
+}
+
+address P {
+    font-size: 14px;
+}
+
+section.copy {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+section.copy p {
+    margin: 0px;
+}
+
+.google-map{
+    padding-top: 58px;
+}
