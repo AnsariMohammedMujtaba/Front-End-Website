@@ -1,7 +1,7 @@
 # My Responsive Website
 
 ## Introduction
-Welcome to my responsive website! This project was developed during my internship in 2021 and is designed to be accessible and user-friendly across various devices and screen sizes.
+Welcome to my responsive website!
 
 ## Features
 - **Responsive Design**: The website adapts seamlessly to different devices, including desktops, tablets, and smartphones.
